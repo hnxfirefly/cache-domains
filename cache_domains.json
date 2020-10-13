@@ -36,11 +36,6 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "genshin",
-			"description": "CDN for Genshin Impact",
-			"domain_files": ["genshin.txt"]
-		},
-		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
