@@ -1,4 +1,4 @@
-*.windowsupdate.com
+#*.windowsupdate.com
 windowsupdate.com
 *.dl.delivery.mp.microsoft.com
 dl.delivery.mp.microsoft.com
